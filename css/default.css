@@ -1,0 +1,61 @@
+/* CSS Document */
+.navContainer
+{
+	width: 20%;
+	height: 100%;
+	position: fixed;
+	left: 0px;
+	border: 1px solid black;
+	background-color: #262020;
+}
+
+.navContainer div
+{
+	padding-left: 20px;
+
+}
+
+.navContainer a
+{
+	color: white;
+	text-align: right;
+	font-size: 24px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.navContainer h1
+{
+	text-align: center;
+	color: #C01212;
+	text-shadow: 1px 1px black;
+	padding-bottom: 100px;
+	width: 100%;
+	height: auto;
+}
+
+.navContainer img
+{
+	width: 100%;
+	height: auto;
+}
+
+.container-fluid
+{
+	padding-left: 21%;
+	background-color: #D5C511;
+	height: 5000px;
+}
+
+.active
+{
+	padding-right: 0px;
+	margin-right: 0px;
+	background-color: #D5C511 !important;
+	color: black !important;
+	font-style: bold;
+}
+
+.navContainer a:hover
+{
+	background-color: #C01212 !important;
+}

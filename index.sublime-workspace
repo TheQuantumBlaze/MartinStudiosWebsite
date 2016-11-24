@@ -1,0 +1,206 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Gra",
+				"GraphicsDeviceManager"
+			],
+			[
+				"print",
+				"printHealth"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"last_filter": "c#",
+		"selected_items":
+		[
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/user/Documents/Visual Studio 2015/Projects/TestGame/TestGame/Properties/AssemblyInfo.cs",
+		"/C/Riot Games/League of Legends/Config/LeagueClientSettings.yaml",
+		"/C/Riot Games/League of Legends/Config/PersistedSettings.json",
+		"/C/Riot Games/League of Legends/Config/LCULocalPreferences.yaml",
+		"/C/Riot Games/League of Legends/Config/input.ini",
+		"/C/Users/user/Documents/Curse/Minecraft/Instances/MyPack/config/oretweaker.cfg",
+		"/C/Users/user/Documents/Curse/Minecraft/Instances/MyPack/config/StorageDrawers.cfg",
+		"/C/Users/user/Documents/Curse/Minecraft/Instances/MyPack/config/veinminer/general.cfg",
+		"/C/Riot Games/League of Legends/Config/game.cfg",
+		"/C/Users/user/Desktop/FNA-1611/FNA/README",
+		"/C/Users/user/Desktop/FNA-1611/FNA/Makefile",
+		"/C/Users/user/Desktop/FNA-1611/FNA/bin/Debug/FNA.dll",
+		"/C/Users/user/Desktop/code/main.ms",
+		"/C/Users/user/Desktop/code/conversion.txt",
+		"/C/Users/user/Desktop/test.mc",
+		"/E/Projects/MLanguage/MLanguage/bin/Debug/code/header.txt",
+		"/C/Users/user/Desktop/code/Bin/Hello.txt",
+		"/C/Users/user/Desktop/code/Bin/Hello",
+		"/C/Users/user/Desktop/code/main.mss",
+		"/C/Users/user/Desktop/code/dog.ms",
+		"/C/Users/user/Desktop/code/dog.mc",
+		"/C/Users/user/Documents/visual studio 2015/Projects/MLanguage/MLanguage/bin/Debug/code/header.txt",
+		"/C/Users/user/Documents/visual studio 2015/Projects/MLanguage/MLanguage/bin/Debug/code/MLanguageFunctions.txt"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"displaymode",
+			"FNA",
+			"Microsoft"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
