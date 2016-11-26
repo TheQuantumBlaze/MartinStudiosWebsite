@@ -1,0 +1,15 @@
+.jumbotron
+{
+	margin-top: 20px !important;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.jumbotron h1
+{
+	font-size: 4vw
+}
+
+.jumbotron p
+{
+	color: grey;
+}
